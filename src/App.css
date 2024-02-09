@@ -1,0 +1,43 @@
+
+
+.nav {
+    background-image: url(./images/navbar.png);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+body{
+    background-image: url(./images/background.png);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: fill;
+}
+
+.l{
+    background-image: url(./images/background.png);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.rr{
+    background-image: url(./images/round-rectangle.png);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+
+.pl {
+    background-image: url(./images/round-rectangle.png);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.pp {
+    background-image: url(./images/team-img-frame.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
